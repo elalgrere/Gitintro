@@ -5,5 +5,4 @@ Bananas
 Cherries
 Carots
 Cereal
-Cucumbers
-Radishes
+EggPlants
